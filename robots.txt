@@ -1,0 +1,17 @@
+
+User-agent: *
+Allow: /
+
+
+Disallow: /cgi-bin/
+Disallow: /temp/
+Disallow: /admin/
+Disallow: /backup/
+
+
+Disallow: /*.sql$
+Disallow: /*.bak$
+Disallow: /*.log$
+
+
+Sitemap: https://www.index.html
