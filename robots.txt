@@ -14,4 +14,14 @@ Disallow: /*.bak$
 Disallow: /*.log$
 
 
-Sitemap: https://www.index.html
+Sitemap: <?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://sexoaovivo.github.io/sexoaovivo/</loc>
+       <lastmod>2026-02-27T23:06:03+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+</urlset>
