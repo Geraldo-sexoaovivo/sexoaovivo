@@ -1,18 +1,12 @@
-{  "short_name": "Sexo ao vivo",
-  "name": "Nome Completo do Meu App",
-  "icons": [
-    {  "src": "sexo-ao-vivo(1).jpg",
-      "type": "image/png",
-      "sizes": "192x192"    },
 
-    {   "src": "Sexo-ao-vivo(256).jpg",
-      "type": "image/png",
-      "sizes": "512x512"   }  ],
-
-  "start_url": "index.html",
-  "background_color": "#ffffff",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#000000" }
+{
+  "short_name": "AppNome""name": "Nome Completo do Aplicativo""icons": [
+    {
+      "src": "/images/icon-192.png""type": "image/png""sizes": "192x192"
+    }{
+      "src": "/images/icon-512.png""type": "image/png""sizes": "512x512"
+    }
+  ]"start_url": "/""background_color": "#ffffff""display": "standalone""theme_color": "#000000"
+}
 
 
